@@ -1,2 +1,0 @@
-<h1>Autofeed Project</h1>
-<p>This is my video auto‑clip generator.</p>
