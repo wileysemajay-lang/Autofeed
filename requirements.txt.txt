@@ -1,8 +1,0 @@
-ffmpeg-python
-pyscenedetect
-pydub
-openai-whisper
-google-api-python-client
-google-auth-oauthlib
-python-dotenv
-requests
